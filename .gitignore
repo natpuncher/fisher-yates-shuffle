@@ -1,0 +1,10 @@
+*.idea/
+
+packages/
+
+*/bin/
+*/obj/
+
+*.user
+
+*.DS_Store
